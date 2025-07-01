@@ -1,4 +1,4 @@
-# COOS Scheduling Algorithms
+# COMPUTER ORGANIZATION AND OPERATING SYSTEMS (COOS) Scheduling Algorithms
 
 This project contains Java implementations of three CPU scheduling algorithms for COOS coursework:
 
